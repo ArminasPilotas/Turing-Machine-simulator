@@ -1,0 +1,7 @@
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\obj\Debug\ND1 Tiuringo Masina.csprojAssemblyReference.cache
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\obj\Debug\ND1 Tiuringo Masina.csproj.CoreCompileInputs.cache
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\bin\Debug\Turing Machine.exe.config
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\bin\Debug\Turing Machine.exe
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\bin\Debug\Turing Machine.pdb
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\obj\Debug\Turing Machine.exe
+C:\Users\Kompiuteris\Documents\ND1\ND1 Turingo Masina\ND1 Turingo Masina\obj\Debug\Turing Machine.pdb
